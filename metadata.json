@@ -1,0 +1,6 @@
+{
+  "name": "Saveurs du Maroc",
+  "description": "Application de cuisine marocaine : recettes traditionnelles détaillées, tutoriels vidéo immersifs et liste de courses intelligente intégrée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
